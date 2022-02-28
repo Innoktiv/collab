@@ -18,6 +18,7 @@ print("___________________________________")
 # Agregar nueva informacion al diccionario
 post2["secuencia3"] = 928340982340
 post2["secuencia4"] = 7573454763
+post2["secuencia5"] = 283428347
 print(post2)
 
 print("___________________________________")
